@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  width: 100%;
+  height: 100vh;
+  background-image: url(/assets/main_image.jpg);
+}
+section header {
+  background-color: black;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+section header img {
+  width: 100px;
+}
+section header ul {
+  color: white;
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+}/*# sourceMappingURL=style.css.map */
