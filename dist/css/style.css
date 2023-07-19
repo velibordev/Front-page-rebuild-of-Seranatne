@@ -35,4 +35,60 @@ section header .header_content ul {
   gap: 20px;
   font-weight: 700;
   font-size: 1.1rem;
+}
+
+.work {
+  width: 80%;
+  max-width: 1440px;
+  margin: auto;
+  margin-top: 150px;
+  border-top: 2px solid black;
+}
+.work h1 {
+  font-size: 3rem;
+  margin-top: 20px;
+}
+
+.about {
+  width: 80%;
+  max-width: 1440px;
+  margin: auto;
+  margin-top: 150px;
+  border-top: 2px solid black;
+}
+.about .about_content {
+  margin-top: 100px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 100%;
+}
+.about .about_content p {
+  width: 50ch;
+  font-weight: bold;
+  padding-bottom: 40px;
+  font-size: 1.2rem;
+}
+.about h1 {
+  font-size: 3rem;
+  margin-top: 20px;
+}
+
+.skills {
+  width: 80%;
+  max-width: 1440px;
+  margin: auto;
+  margin-top: 150px;
+  border-top: 2px solid black;
+}
+.skills h1 {
+  font-size: 3rem;
+  margin-top: 20px;
+}
+.skills h2 {
+  font-size: 5rem;
+  font-weight: lighter;
+  margin-top: 100px;
+  border-bottom: 1px solid gray;
+  padding-bottom: 10px;
 }/*# sourceMappingURL=style.css.map */
